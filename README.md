@@ -1,4 +1,4 @@
-# Non-parametrics-Statistics
+# Non_parametrics_Statistics
 
 This is the assignment for the "Non-parametrics Statistics" class, from the master degree "Statistics for Data Science", in UC3M.
 The lecturer was Eduardo García Portugues.
